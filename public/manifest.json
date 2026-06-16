@@ -1,0 +1,18 @@
+{
+  "name": "SwipeGalery - Tinder da sua Galeria",
+  "short_name": "SwipeGalery",
+  "description": "Gerencie e limpe sua galeria de fotos e vídeos de forma rápida com gestos de deslizar.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0b0d",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
